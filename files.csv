@@ -1,5 +1,5 @@
 path,hash
-META-INF/MANIFEST.MF,1478430165
+META-INF/MANIFEST.MF,1379275509
 assets/wynnvp/sounds/archnidsascentenduyn1.ogg,917815050
 assets/wynnvp/sounds/archnidsascentenduyn2.ogg,1834510835
 assets/wynnvp/sounds/beyondthegravedeath1.ogg,2762242214
@@ -19,7 +19,7 @@ assets/wynnvp/sounds/beyondthegravedeath9.ogg,3834244271
 assets/wynnvp/sounds/beyondthegraveirlok1.ogg,3845432193
 assets/wynnvp/sounds/beyondthegraveirlok2.ogg,2009452959
 assets/wynnvp/sounds/blazingretributiondetectivejackson1.ogg,3582978118
-assets/wynnvp/sounds/blazingretributiondetectivejackson2.ogg,977635783
+assets/wynnvp/sounds/blazingretributiondetectivejackson2.ogg,3740988288
 assets/wynnvp/sounds/blazingretributiondetectivejackson3.ogg,2682680997
 assets/wynnvp/sounds/blazingretributiongreggr1.ogg,2988897580
 assets/wynnvp/sounds/blazingretributiongreggr2.ogg,1297135811
@@ -105,10 +105,14 @@ assets/wynnvp/sounds/onethousandmetersunderolof8.ogg,1356705259
 assets/wynnvp/sounds/onethousandmetersunderolof9.ogg,2787511296
 assets/wynnvp/sounds/onethousandmetersunderrex1.ogg,2520392140
 assets/wynnvp/sounds/onethousandmetersunderrex2.ogg,303668958
-assets/wynnvp/sounds/onethousandmetersunderrontaid.ogg,1492861610
+assets/wynnvp/sounds/onethousandmetersunderrontaid.ogg,1598352849
 assets/wynnvp/sounds/onethousandmetersunderscientistyvnoss1.ogg,511654734
 assets/wynnvp/sounds/onethousandmetersunderscientistyvnoss2.ogg,3715478312
 assets/wynnvp/sounds/onethousandmetersundersecretary.ogg,4196308308
+assets/wynnvp/sounds/potionmakingassistant1.ogg,1444774531
+assets/wynnvp/sounds/potionmakingassistant2.ogg,3508730038
+assets/wynnvp/sounds/potionmakingassistant3.ogg,3050384571
+assets/wynnvp/sounds/potionmakingdressren.ogg,2516937800
 assets/wynnvp/sounds/recipefordiasterkale1.ogg,3327269347
 assets/wynnvp/sounds/recipefordiasterkale2.ogg,466493683
 assets/wynnvp/sounds/recipefordiasterkale3.ogg,1203764310
@@ -136,7 +140,7 @@ assets/wynnvp/sounds/starthiefthief3.ogg,2065804997
 assets/wynnvp/sounds/talkingmushroomabondedmines.ogg,57937415
 assets/wynnvp/sounds/talkingmushroomafterrecipefordistaster.ogg,3474025024
 assets/wynnvp/sounds/talkingmushroombaabsabondedmines.ogg,999478171
-assets/wynnvp/sounds/talkingmushroombackstorry.ogg,3600989377
+assets/wynnvp/sounds/talkingmushroombackstorry.ogg,3978777019
 assets/wynnvp/sounds/talkingmushroombeforeeyefight.ogg,2358915314
 assets/wynnvp/sounds/talkingmushroombeforerecipefordisaster.ogg,3414745291
 assets/wynnvp/sounds/talkingmushroombotomlesspit.ogg,1364075773
@@ -152,7 +156,7 @@ assets/wynnvp/sounds/talkingmushroomelkurn.ogg,2269411292
 assets/wynnvp/sounds/talkingmushroomendportal.ogg,2266392010
 assets/wynnvp/sounds/talkingmushroomeyeballforest.ogg,2052596121
 assets/wynnvp/sounds/talkingmushroomfantasticvoyage.ogg,3841615652
-assets/wynnvp/sounds/talkingmushroomfeathersflydog.ogg,1603004029
+assets/wynnvp/sounds/talkingmushroomfeathersflydog.ogg,1684096749
 assets/wynnvp/sounds/talkingmushroomflightindistress.ogg,2599499086
 assets/wynnvp/sounds/talkingmushroomforbiddenprison.ogg,1669131499
 assets/wynnvp/sounds/talkingmushroomfrumagate.ogg,652040249
@@ -160,6 +164,7 @@ assets/wynnvp/sounds/talkingmushroomgeilboardcemetary.ogg,2830570361
 assets/wynnvp/sounds/talkingmushroomheartoflevingar.ogg,1288083748
 assets/wynnvp/sounds/talkingmushroomhiddencamp.ogg,95097936
 assets/wynnvp/sounds/talkingmushroomhouseoftwain.ogg,2192769009
+assets/wynnvp/sounds/talkingmushroomkandon.ogg,3460526482
 assets/wynnvp/sounds/talkingmushroomllevingar.ogg,969393275
 assets/wynnvp/sounds/talkingmushroommesacanyoneggs.ogg,846740289
 assets/wynnvp/sounds/talkingmushroommoltenheights.ogg,1875744224
@@ -210,6 +215,10 @@ assets/wynnvp/sounds/thesewersofragnijenprest5.ogg,1402494999
 assets/wynnvp/sounds/thesewersofragnijenprest6.ogg,2666595094
 assets/wynnvp/sounds/thesewersofragniquestionmark.ogg,4036168741
 assets/wynnvp/sounds/Trippy Forest.ogg,235738363
+assets/wynnvp/sounds/underwateromango1.ogg,3306835885
+assets/wynnvp/sounds/underwateromango2.ogg,2287201008
+assets/wynnvp/sounds/underwatersayrr1.ogg,935434042
+assets/wynnvp/sounds/underwatersayrr2.ogg,1055803998
 assets/wynnvp/sounds/wrathofthemummyachper.ogg,4171275660
 assets/wynnvp/sounds/wrathofthemummybandit1.ogg,1881771242
 assets/wynnvp/sounds/wrathofthemummybandit2.ogg,1681451853
@@ -253,13 +262,13 @@ assets/wynnvp/sounds/wynnexcvationbarchaeologist.ogg,3344117472
 assets/wynnvp/sounds/wynnexcvationbflendar.ogg,369867876
 assets/wynnvp/sounds/wynnexcvationblykron1.ogg,831161260
 assets/wynnvp/sounds/wynnexcvationblykron2.ogg,972869396
-assets/wynnvp/sounds.json,1492245598
+assets/wynnvp/sounds.json,994208232
 com/wynnvp/wynncraftvp/events/ReceiveChatEvent.class,3996479534
 com/wynnvp/wynncraftvp/ModCore.class,3207413863
 com/wynnvp/wynncraftvp/sound/CustomSoundClass.class,2497231809
 com/wynnvp/wynncraftvp/sound/SoundAtPlayer.class,3265158046
 com/wynnvp/wynncraftvp/sound/SoundPlayer.class,1422811873
-com/wynnvp/wynncraftvp/sound/SoundsHandler.class,275466571
+com/wynnvp/wynncraftvp/sound/SoundsHandler.class,1744970782
 com/wynnvp/wynncraftvp/utils/Utils.class,3736665060
 mcmod.info,4115984069
 pack.mcmeta,25077278

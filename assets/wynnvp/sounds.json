@@ -836,6 +836,43 @@
   },
 
 
+  "potionmakingassistant1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:potionmakingassistant1", "stream": true}]
+  },
+  "potionmakingassistant2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:potionmakingassistant2", "stream": true}]
+  },
+  "potionmakingassistant3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:potionmakingassistant3", "stream": true}]
+  },
+  "potionmakingdressren": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:potionmakingdressren", "stream": true}]
+  },
+
+
+  "underwateromango1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:underwateromango1", "stream": true}]
+  },
+  "underwateromango2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:underwateromango2", "stream": true}]
+  },
+  "underwatersayrr1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:underwatersayrr1", "stream": true}]
+  },
+  "underwatersayrr2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:underwatersayrr2", "stream": true}]
+  },
+
+
+
   "talkingmushroomabondedmines": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:talkingmushroomabondedmines", "stream": true}]
@@ -1047,6 +1084,10 @@
   "talkingmushroomhiddencamp": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:talkingmushroomhiddencamp", "stream": true}]
+  },
+  "talkingmushroomkandon": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:talkingmushroomkandon", "stream": true}]
   }
 
 
