@@ -1,5 +1,7 @@
 path,hash
-META-INF/MANIFEST.MF,2565211845
+META-INF/MANIFEST.MF,1136677238
+assets/wynnvp/sounds/archnidsascentenduyn1.ogg,917815050
+assets/wynnvp/sounds/archnidsascentenduyn2.ogg,1834510835
 assets/wynnvp/sounds/bobslostsoulapprentice.ogg,1447322094
 assets/wynnvp/sounds/bobslostsoulblacksmith1.ogg,2086538285
 assets/wynnvp/sounds/bobslostsoulblacksmith2.ogg,1667334829
@@ -26,6 +28,9 @@ assets/wynnvp/sounds/creeperinfiltrationthomascreeperinfl1.ogg,850456644
 assets/wynnvp/sounds/creeperinfiltrationthomascreeperinfl2.ogg,2191282478
 assets/wynnvp/sounds/creeperinfiltrationthomascreeperinfl31.ogg,2533265574
 assets/wynnvp/sounds/creeperinfiltrationthomascreeperinfl4.ogg,2723851946
+assets/wynnvp/sounds/decriptsewerswitherehead1.ogg,2335915424
+assets/wynnvp/sounds/decriptsewerswitherehead2.ogg,1036892981
+assets/wynnvp/sounds/decriptsewerswitherehead3.ogg,499412462
 assets/wynnvp/sounds/enzansbrotherenzan.ogg,3678239421
 assets/wynnvp/sounds/enzansbrothertherck1.ogg,1460290808
 assets/wynnvp/sounds/enzansbrothertherck2.ogg,2658791789
@@ -68,7 +73,8 @@ assets/wynnvp/sounds/starthiefthief3.ogg,2065804997
 assets/wynnvp/sounds/talkingmushroomabondedmines.ogg,57937415
 assets/wynnvp/sounds/talkingmushroomafterrecipefordistaster.ogg,3474025024
 assets/wynnvp/sounds/talkingmushroombaabsabondedmines.ogg,999478171
-assets/wynnvp/sounds/talkingmushroombackstorry.ogg,2379727789
+assets/wynnvp/sounds/talkingmushroombackstorry.mp3,2029647782
+assets/wynnvp/sounds/talkingmushroombackstorry.ogg,3600989377
 assets/wynnvp/sounds/talkingmushroombeforeeyefight.ogg,2358915314
 assets/wynnvp/sounds/talkingmushroombeforerecipefordisaster.ogg,3414745291
 assets/wynnvp/sounds/talkingmushroombotomlesspit.ogg,1364075773
@@ -90,6 +96,7 @@ assets/wynnvp/sounds/talkingmushroomforbiddenprison.ogg,1669131499
 assets/wynnvp/sounds/talkingmushroomfrumagate.ogg,652040249
 assets/wynnvp/sounds/talkingmushroomgeilboardcemetary.ogg,2830570361
 assets/wynnvp/sounds/talkingmushroomheartoflevingar.ogg,1288083748
+assets/wynnvp/sounds/talkingmushroomhiddencamp.mp3,3217844344
 assets/wynnvp/sounds/talkingmushroomhouseoftwain.ogg,2192769009
 assets/wynnvp/sounds/talkingmushroomllevingar.ogg,969393275
 assets/wynnvp/sounds/talkingmushroommesacanyoneggs.ogg,846740289
@@ -130,13 +137,15 @@ assets/wynnvp/sounds/templeoflegendskelight6.ogg,1378594385
 assets/wynnvp/sounds/templeoflegendsrayshyroth1.ogg,657104204
 assets/wynnvp/sounds/templeoflegendsrayshyroth2.ogg,4118449213
 assets/wynnvp/sounds/The Canyon Colossus.ogg,3964914634
+assets/wynnvp/sounds/thehouseoftwaintwendle1.ogg,881108503
+assets/wynnvp/sounds/thehouseoftwaintwendle2.ogg,1880961657
 assets/wynnvp/sounds/Therck.ogg,4049824456
 assets/wynnvp/sounds/thesewersofragnijenprest1.ogg,3228309853
-assets/wynnvp/sounds/thesewersofragnijenprest2.ogg,1340072355
+assets/wynnvp/sounds/thesewersofragnijenprest2.ogg,487367975
 assets/wynnvp/sounds/thesewersofragnijenprest3.ogg,4055371091
 assets/wynnvp/sounds/thesewersofragnijenprest4.ogg,3141721292
 assets/wynnvp/sounds/thesewersofragnijenprest5.ogg,1402494999
-assets/wynnvp/sounds/thesewersofragnijenprest6.ogg,563578396
+assets/wynnvp/sounds/thesewersofragnijenprest6.ogg,2666595094
 assets/wynnvp/sounds/thesewersofragniquestionmark.ogg,4036168741
 assets/wynnvp/sounds/Trippy Forest.ogg,235738363
 assets/wynnvp/sounds/wrathofthemummyachper.ogg,4171275660
@@ -182,13 +191,13 @@ assets/wynnvp/sounds/wynnexcvationbarchaeologist.ogg,3344117472
 assets/wynnvp/sounds/wynnexcvationbflendar.ogg,369867876
 assets/wynnvp/sounds/wynnexcvationblykron1.ogg,831161260
 assets/wynnvp/sounds/wynnexcvationblykron2.ogg,972869396
-assets/wynnvp/sounds.json,3991375542
+assets/wynnvp/sounds.json,4156549595
 com/wynnvp/wynncraftvp/events/ReceiveChatEvent.class,3996479534
 com/wynnvp/wynncraftvp/ModCore.class,3207413863
 com/wynnvp/wynncraftvp/sound/CustomSoundClass.class,2497231809
 com/wynnvp/wynncraftvp/sound/SoundAtPlayer.class,3265158046
 com/wynnvp/wynncraftvp/sound/SoundPlayer.class,1422811873
-com/wynnvp/wynncraftvp/sound/SoundsHandler.class,3517240093
+com/wynnvp/wynncraftvp/sound/SoundsHandler.class,419885869
 com/wynnvp/wynncraftvp/utils/Utils.class,3736665060
 mcmod.info,4115984069
 pack.mcmeta,25077278

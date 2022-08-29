@@ -222,6 +222,7 @@
     "sounds": [{ "name": "wynnvp:cluckclucknohno2", "stream": true}]
   },
 
+
   "infplants1": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:infplants1", "stream": true}]
@@ -521,6 +522,19 @@
     "sounds": [{ "name": "wynnvp:thesewersofragniquestionmark", "stream": true}]
   },
 
+  "decriptsewerswitherehead1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:decriptsewerswitherehead1", "stream": true}]
+  },
+  "decriptsewerswitherehead2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:decriptsewerswitherehead2", "stream": true}]
+  },
+  "decriptsewerswitherehead3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:decriptsewerswitherehead3", "stream": true}]
+  },
+
   "starthiefagent1": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:starthiefagent1", "stream": true}]
@@ -540,6 +554,25 @@
   "starthiefthief3": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:starthiefthief3", "stream": true}]
+  },
+
+  "archnidsascentenduyn1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:archnidsascentenduyn1", "stream": true}]
+  },
+  "archnidsascentenduyn2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:archnidsascentenduyn2", "stream": true}]
+  },
+
+
+  "thehouseoftwaintwendle1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:thehouseoftwaintwendle1", "stream": true}]
+  },
+  "thehouseoftwaintwendle2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:thehouseoftwaintwendle2", "stream": true}]
   },
 
 
@@ -750,5 +783,9 @@
   "talkingmushroomforbiddenprison": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:talkingmushroomforbiddenprison", "stream": true}]
+  },
+  "talkingmushroomhiddencamp": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:talkingmushroomhiddencamp", "stream": true}]
   }
 }
