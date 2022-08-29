@@ -869,9 +869,25 @@
     "category": "voice",
     "sounds": [{ "name": "wynnvp:potionmakingassistant3", "stream": true}]
   },
-  "potionmakingdressren": {
+  "potionmakingdressren1": {
     "category": "voice",
-    "sounds": [{ "name": "wynnvp:potionmakingdressren", "stream": true}]
+    "sounds": [{ "name": "wynnvp:potionmakingdressren1", "stream": true}]
+  },
+  "potionmakingdressren2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:potionmakingdressren2", "stream": true}]
+  },
+  "potionmakingdressren3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:potionmakingdressren3", "stream": true}]
+  },
+  "potionmakingdressren4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:potionmakingdressren4", "stream": true}]
+  },
+  "potionmakingdressren5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:potionmakingdressren5", "stream": true}]
   },
 
 
@@ -1621,6 +1637,55 @@
   },
 
 
+
+  "agravemistake-alem-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-alem-1", "stream": true}]
+  },
+  "agravemistake-alem-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-alem-2", "stream": true}]
+  },
+  "agravemistake-alem-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-alem-3", "stream": true}]
+  },
+  "agravemistake-alem-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-alem-4", "stream": true}]
+  },
+  "agravemistake-alem-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-alem-5", "stream": true}]
+  },
+  "agravemistake-mael-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-mael-1", "stream": true}]
+  },
+  "agravemistake-mael-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-mael-2", "stream": true}]
+  },
+  "agravemistake-mael-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-mael-3", "stream": true}]
+  },
+  "agravemistake-mael-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-mael-4", "stream": true}]
+  },
+  "agravemistake-mael-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-mael-5", "stream": true}]
+  },
+  "agravemistake-skeleton-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:agravemistake-skeleton-1", "stream": true}]
+  },
+
+
+
+
   "darkdescent-charon-1": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:darkdescent-charon-1", "stream": true}]
@@ -1704,6 +1769,14 @@
   "darkdescent-generalgraken-8": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:darkdescent-generalgraken-8", "stream": true}]
+  },
+  "darkdescent-generalgraken-9": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:darkdescent-generalgraken-9", "stream": true}]
+  },
+  "darkdescent-generalgraken-10": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:darkdescent-generalgraken-10", "stream": true}]
   },
   "darkdescent-lostsoul-1": {
     "category": "voice",
@@ -2070,6 +2143,288 @@
     "sounds": [{ "name": "wynnvp:tribalaggression-favian-2", "stream": true}]
   },
 
+
+
+  "studyingthecorrupt-viraex-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-viraex-1", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-1", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-2", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-3", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-4", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-5", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-6": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-6", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-7": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-7", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-8": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-8", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-9": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-9", "stream": true}]
+  },
+  "studyingthecorrupt-garothsjournal-10": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsjournal-10", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-1", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-2", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-3", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-4", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-5", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-6": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-6", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-7": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-7", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-8": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-8", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-9": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-9", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-10": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-10", "stream": true}]
+  },
+  "studyingthecorrupt-adventuringmage-11": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-adventuringmage-11", "stream": true}]
+  },
+  "studyingthecorrupt-garothsnote-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsnote-1", "stream": true}]
+  },
+  "studyingthecorrupt-garothsnote-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsnote-2", "stream": true}]
+  },
+  "studyingthecorrupt-garothsnote-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-garothsnote-3", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-1", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-2", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-3", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-4", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-5", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-6": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-6", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-7": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-7", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-8": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-8", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-9": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-9", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-10": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-10", "stream": true}]
+  },
+  "studyingthecorrupt-pottur-11": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:studyingthecorrupt-pottur-11", "stream": true}]
+  },
+
+
+  "anironheartpart1-duvale-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart1-duvale-1", "stream": true}]
+  },
+  "anironheartpart1-duvale-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart1-duvale-2", "stream": true}]
+  },
+  "anironheartpart1-guardgolem-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart1-guardgolem-1", "stream": true}]
+  },
+  "anironheartpart1-guardgolem-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart1-guardgolem-2", "stream": true}]
+  },
+  "anironheartpart1-guardgolem-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart1-guardgolem-3", "stream": true}]
+  },
+  "anironheartpart1-guardgolem-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart1-guardgolem-4", "stream": true}]
+  },
+  "anironheartpart1-guardgolem-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart1-guardgolem-5", "stream": true}]
+  },
+  "anironheartpart1-guardgolem-6": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart1-guardgolem-6", "stream": true}]
+  },
+  "anironheartpart1-guardgolem-7": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart1-guardgolem-7", "stream": true}]
+  },
+
+
+  "anironheartpart2-daxe-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-1", "stream": true}]
+  },
+  "anironheartpart2-daxe-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-2", "stream": true}]
+  },
+  "anironheartpart2-daxe-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-3", "stream": true}]
+  },
+  "anironheartpart2-daxe-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-4", "stream": true}]
+  },
+  "anironheartpart2-daxe-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-5", "stream": true}]
+  },
+  "anironheartpart2-daxe-6": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-6", "stream": true}]
+  },
+  "anironheartpart2-daxe-7": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-7", "stream": true}]
+  },
+  "anironheartpart2-daxe-8": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-8", "stream": true}]
+  },
+  "anironheartpart2-daxe-9": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-9", "stream": true}]
+  },
+  "anironheartpart2-daxe-10": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-10", "stream": true}]
+  },
+  "anironheartpart2-daxe-11": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-11", "stream": true}]
+  },
+  "anironheartpart2-daxe-12": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-daxe-12", "stream": true}]
+  },
+  "anironheartpart2-detectivehart-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-detectivehart-1", "stream": true}]
+  },
+  "anironheartpart2-detectivehart-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-detectivehart-2", "stream": true}]
+  },
+  "anironheartpart2-drurelix-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-drurelix-1", "stream": true}]
+  },
+  "anironheartpart2-drurelix-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-drurelix-2", "stream": true}]
+  },
+  "anironheartpart2-drurelix-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-drurelix-3", "stream": true}]
+  },
+  "anironheartpart2-guardgolem-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-guardgolem-1", "stream": true}]
+  },
+  "anironheartpart2-guardgolem-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-guardgolem-2", "stream": true}]
+  },
+  "anironheartpart2-guardgolem-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-guardgolem-3", "stream": true}]
+  },
+  "anironheartpart2-guardgolem-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-guardgolem-4", "stream": true}]
+  },
+  "anironheartpart2-guardgolem-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-guardgolem-5", "stream": true}]
+  },
+  "anironheartpart2-securityrobot-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-securityrobot-1", "stream": true}]
+  },
+  "anironheartpart2-securityrobot-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-securityrobot-2", "stream": true}]
+  },
 
 
   "rol1wormholes-malo-1": {
