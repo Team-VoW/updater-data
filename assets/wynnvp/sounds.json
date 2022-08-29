@@ -256,6 +256,14 @@
     "category": "voice",
     "sounds": [{ "name": "wynnvp:kingsrecruit-tasim-22", "stream": true}]
   },
+  "kingsrecruit-tasim-23": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:kingsrecruit-tasim-23", "stream": true}]
+  },
+  "kingsrecruit-tasim-24": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:kingsrecruit-tasim-24", "stream": true}]
+  },
   "kingsrecruit-guard2-3": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:kingsrecruit-guard2-3", "stream": true}]
@@ -597,6 +605,14 @@
     "category": "voice",
     "sounds": [{ "name": "wynnvp:gravedigger-sayleros-2", "stream": true}]
   },
+  "gravedigger-sayleros-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:gravedigger-sayleros-3", "stream": true}]
+  },
+  "gravedigger-sayleros-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:gravedigger-sayleros-4", "stream": true}]
+  },
   "gravedigger-priest-2": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:gravedigger-priest-2", "stream": true}]
@@ -641,6 +657,14 @@
   "wrathofthemummy-ormrod-2": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:wrathofthemummy-ormrod-2", "stream": true}]
+  },
+  "wrathofthemummy-ormrod-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:wrathofthemummy-ormrod-3", "stream": true}]
+  },
+  "wrathofthemummy-ormrod-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:wrathofthemummy-ormrod-4", "stream": true}]
   },
 
 
@@ -1091,6 +1115,22 @@
   "templeoflegends-kelight-6": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:templeoflegends-kelight-6", "stream": true}]
+  },
+  "templeoflegends-kelight-7": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:templeoflegends-kelight-7", "stream": true}]
+  },
+  "templeoflegends-kelight-8": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:templeoflegends-kelight-8", "stream": true}]
+  },
+  "templeoflegends-kelight-9": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:templeoflegends-kelight-9", "stream": true}]
+  },
+  "templeoflegends-kelight-10": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:templeoflegends-kelight-10", "stream": true}]
   },
   "templeoflegends-rayshyroth-1": {
     "category": "voice",
@@ -7987,6 +8027,10 @@
     "category": "voice",
     "sounds": [{ "name": "wynnvp:darkdescentdungeon-charon-6", "stream": true}]
   },
+  "darkdescentdungeon-charon-7": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:darkdescentdungeon-charon-7", "stream": true}]
+  },
 
 
 
@@ -8518,9 +8562,53 @@
     "category": "voice",
     "sounds": [{ "name": "wynnvp:meaningfulholiday-santa-5", "stream": true}]
   },
+  "meaningfulholiday-santa-6": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-santa-6", "stream": true}]
+  },
+  "meaningfulholiday-santa-7": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-santa-7", "stream": true}]
+  },
+  "meaningfulholiday-santa-8": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-santa-8", "stream": true}]
+  },
   "meaningfulholiday-nick-19": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:meaningfulholiday-nick-19", "stream": true}]
+  },
+  "meaningfulholiday-nick-20": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-nick-20", "stream": true}]
+  },
+  "meaningfulholiday-nick-21": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-nick-21", "stream": true}]
+  },
+  "meaningfulholiday-nick-22": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-nick-22", "stream": true}]
+  },
+  "meaningfulholiday-nick-23": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-nick-23", "stream": true}]
+  },
+  "meaningfulholiday-nick-24": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-nick-24", "stream": true}]
+  },
+  "meaningfulholiday-nick-25": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-nick-25", "stream": true}]
+  },
+  "meaningfulholiday-nick-26": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-nick-26", "stream": true}]
+  },
+  "meaningfulholiday-nick-27": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:meaningfulholiday-nick-27", "stream": true}]
   },
   "meaningfulholiday-guest-1": {
     "category": "voice",
@@ -8680,6 +8768,39 @@
   "kingdomofsand-lanu-10": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:kingdomofsand-lanu-10", "stream": true}]
+  },
+
+  "sst-hashr-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:sst-hashr-1", "stream": true}]
+  },
+  "sst-hashr-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:sst-hashr-2", "stream": true}]
+  },
+  "sst-hashr-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:sst-hashr-3", "stream": true}]
+  },
+  "sst-hashr-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:sst-hashr-4", "stream": true}]
+  },
+  "csst-hashr-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:csst-hashr-1", "stream": true}]
+  },
+  "csst-hashr-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:csst-hashr-2", "stream": true}]
+  },
+  "csst-hashr-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:csst-hashr-3", "stream": true}]
+  },
+  "csst-hashr-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:csst-hashr-4", "stream": true}]
   },
 
 
@@ -13160,6 +13281,18 @@
   "anironheartpart2-detectivehart-2": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:anironheartpart2-detectivehart-2", "stream": true}]
+  },
+  "anironheartpart2-detectivehart-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-detectivehart-3", "stream": true}]
+  },
+  "anironheartpart2-detectivehart-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-detectivehart-4", "stream": true}]
+  },
+  "anironheartpart2-detectivehart-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:anironheartpart2-detectivehart-5", "stream": true}]
   },
   "anironheartpart2-drurelix-1": {
     "category": "voice",
@@ -18464,10 +18597,6 @@
   "questionmark-computer-18": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:questionmark-computer-18", "stream": true}]
-  },
-  "questionmark-computer-19": {
-    "category": "voice",
-    "sounds": [{ "name": "wynnvp:questionmark-computer-19", "stream": true}]
   },
   "questionmark-mehme-1": {
     "category": "voice",
