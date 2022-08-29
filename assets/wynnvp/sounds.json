@@ -4463,6 +4463,18 @@
     "category": "voice",
     "sounds": [{ "name": "wynnvp:aldoreissecretpart2-legolus-2", "stream": true}]
   },
+  "aldoreissecretpart2-legolus-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:aldoreissecretpart2-legolus-3", "stream": true}]
+  },
+  "aldoreissecretpart2-legolus-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:aldoreissecretpart2-legolus-4", "stream": true}]
+  },
+  "aldoreissecretpart2-legolus-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:aldoreissecretpart2-legolus-5", "stream": true}]
+  },
   "aldoreissecretpart2-soway-1": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:aldoreissecretpart2-soway-1", "stream": true}]
@@ -4534,6 +4546,14 @@
   "aldoreissecretpart2-togak-14": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:aldoreissecretpart2-togak-14", "stream": true}]
+  },
+  "aldoreissecretpart2-togak-15": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:aldoreissecretpart2-togak-15", "stream": true}]
+  },
+  "aldoreissecretpart2-togak-16": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:aldoreissecretpart2-togak-16", "stream": true}]
   },
   "aldoreissecretpart2-kansard-1": {
     "category": "voice",
@@ -6529,6 +6549,18 @@
     "category": "voice",
     "sounds": [{ "name": "wynnvp:arachnidsascent-cob-1", "stream": true}]
   },
+  "arachnidsascent-cob-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:arachnidsascent-cob-2", "stream": true}]
+  },
+  "arachnidsascent-cob-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:arachnidsascent-cob-3", "stream": true}]
+  },
+  "arachnidsascent-cob-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:arachnidsascent-cob-4", "stream": true}]
+  },
   "arachnidsascent-edyun-1": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:arachnidsascent-edyun-1", "stream": true}]
@@ -7226,22 +7258,6 @@
   "macabremasquerade-masksalesman-5": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:macabremasquerade-masksalesman-5", "stream": true}]
-  },
-  "macabremasquerade-masksalesman-6": {
-    "category": "voice",
-    "sounds": [{ "name": "wynnvp:macabremasquerade-masksalesman-6", "stream": true}]
-  },
-  "macabremasquerade-masksalesman-7": {
-    "category": "voice",
-    "sounds": [{ "name": "wynnvp:macabremasquerade-masksalesman-7", "stream": true}]
-  },
-  "macabremasquerade-masksalesman-8": {
-    "category": "voice",
-    "sounds": [{ "name": "wynnvp:macabremasquerade-masksalesman-8", "stream": true}]
-  },
-  "macabremasquerade-masksalesman-9": {
-    "category": "voice",
-    "sounds": [{ "name": "wynnvp:macabremasquerade-masksalesman-9", "stream": true}]
   },
 
 
