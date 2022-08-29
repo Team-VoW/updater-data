@@ -1,7 +1,8 @@
 path,hash
-META-INF/MANIFEST.MF,581600277
-assets/wynnvp/sounds/archnidsascentenduyn1.ogg,917815050
-assets/wynnvp/sounds/archnidsascentenduyn2.ogg,1834510835
+META-INF/MANIFEST.MF,592146404
+assets/wynnvp/sounds/arachnidsascent-cob-1.ogg,515144608
+assets/wynnvp/sounds/arachnidsascent-edyun-1.ogg,3550140719
+assets/wynnvp/sounds/arachnidsascent-edyun-2.ogg,4145069958
 assets/wynnvp/sounds/beyondthegravedeath1.ogg,2762242214
 assets/wynnvp/sounds/beyondthegravedeath10.ogg,1333834958
 assets/wynnvp/sounds/beyondthegravedeath11.ogg,3995400601
@@ -138,6 +139,14 @@ assets/wynnvp/sounds/dejavu-oldmanmartyn-6.ogg,3499550279
 assets/wynnvp/sounds/dejavu-oldmanmartyn-7.ogg,1772678370
 assets/wynnvp/sounds/dejavu-oldmanmartyn-8.ogg,3545260274
 assets/wynnvp/sounds/dejavu-oldmanmartyn-9.ogg,2985945047
+assets/wynnvp/sounds/dwellingwalls-leucsaa-1.ogg,4096236653
+assets/wynnvp/sounds/dwellingwalls-leucsaa-2.ogg,3841962091
+assets/wynnvp/sounds/elementalexercise-ragon-1.ogg,2574196765
+assets/wynnvp/sounds/elementalexercise-ragon-2.ogg,1882340680
+assets/wynnvp/sounds/elementalexercise-ragon-3.ogg,524885708
+assets/wynnvp/sounds/elementalexercise-ragon-4.ogg,761374039
+assets/wynnvp/sounds/elementalexercise-ragon-5.ogg,2790710958
+assets/wynnvp/sounds/elementalexercise-ragon-6.ogg,4191688599
 assets/wynnvp/sounds/enzansbrotherenzan.ogg,3678239421
 assets/wynnvp/sounds/enzansbrothertherck1.ogg,1460290808
 assets/wynnvp/sounds/enzansbrothertherck2.ogg,2658791789
@@ -177,6 +186,7 @@ assets/wynnvp/sounds/generalsorders-lecade-7-1-1.ogg,828774774
 assets/wynnvp/sounds/generalsorders-lecade-8-1-5.ogg,3045676435
 assets/wynnvp/sounds/generalsorders-lecade-8-2-5.ogg,2238961182
 assets/wynnvp/sounds/generalsorders-lecade-8-3-5.ogg,3490553247
+assets/wynnvp/sounds/generalsorders-lecade-8-4-5.ogg,359735279
 assets/wynnvp/sounds/generalsorders-lecade-8-5-5.ogg,821055985
 assets/wynnvp/sounds/generalsorders-private-1-1.ogg,2622515995
 assets/wynnvp/sounds/generalsorders-tylas-1.ogg,4161167435
@@ -246,6 +256,8 @@ assets/wynnvp/sounds/onethousandmetersunderrontaid.ogg,1598352849
 assets/wynnvp/sounds/onethousandmetersunderscientistyvnoss1.ogg,511654734
 assets/wynnvp/sounds/onethousandmetersunderscientistyvnoss2.ogg,3715478312
 assets/wynnvp/sounds/onethousandmetersundersecretary.ogg,4196308308
+assets/wynnvp/sounds/pitofthedead-merloni-1.ogg,1141029627
+assets/wynnvp/sounds/pitofthedead-merloni-2.ogg,1340267772
 assets/wynnvp/sounds/potionmakingassistant1.ogg,1444774531
 assets/wynnvp/sounds/potionmakingassistant2.ogg,3508730038
 assets/wynnvp/sounds/potionmakingassistant3.ogg,3050384571
@@ -351,6 +363,8 @@ assets/wynnvp/sounds/thesewersofragnijenprest4.ogg,3141721292
 assets/wynnvp/sounds/thesewersofragnijenprest5.ogg,1402494999
 assets/wynnvp/sounds/thesewersofragnijenprest6.ogg,2666595094
 assets/wynnvp/sounds/thesewersofragniquestionmark.ogg,4036168741
+assets/wynnvp/sounds/towerofascension-ankou-1.ogg,1611623664
+assets/wynnvp/sounds/towerofascension-ankou-2.ogg,526158559
 assets/wynnvp/sounds/Trippy Forest.ogg,235738363
 assets/wynnvp/sounds/underwateromango1.ogg,3306835885
 assets/wynnvp/sounds/underwateromango2.ogg,2287201008
@@ -399,13 +413,13 @@ assets/wynnvp/sounds/wynnexcvationbarchaeologist.ogg,3344117472
 assets/wynnvp/sounds/wynnexcvationbflendar.ogg,369867876
 assets/wynnvp/sounds/wynnexcvationblykron1.ogg,831161260
 assets/wynnvp/sounds/wynnexcvationblykron2.ogg,972869396
-assets/wynnvp/sounds.json,2285970613
+assets/wynnvp/sounds.json,1208497122
 com/wynnvp/wynncraftvp/events/ReceiveChatEvent.class,2603642001
 com/wynnvp/wynncraftvp/ModCore.class,3031696763
 com/wynnvp/wynncraftvp/sound/CustomSoundClass.class,2497231809
 com/wynnvp/wynncraftvp/sound/SoundAtPlayer.class,3265158046
 com/wynnvp/wynncraftvp/sound/SoundPlayer.class,1353192854
-com/wynnvp/wynncraftvp/sound/SoundsHandler.class,284472860
+com/wynnvp/wynncraftvp/sound/SoundsHandler.class,387552788
 com/wynnvp/wynncraftvp/utils/Utils.class,3736665060
 mcmod.info,4115984069
 pack.mcmeta,25077278

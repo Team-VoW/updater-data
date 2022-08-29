@@ -576,15 +576,6 @@
     "sounds": [{ "name": "wynnvp:starthiefthief3", "stream": true}]
   },
 
-  "archnidsascentenduyn1": {
-    "category": "voice",
-    "sounds": [{ "name": "wynnvp:archnidsascentenduyn1", "stream": true}]
-  },
-  "archnidsascentenduyn2": {
-    "category": "voice",
-    "sounds": [{ "name": "wynnvp:archnidsascentenduyn2", "stream": true}]
-  },
-
 
   "thehouseoftwaintwendle1": {
     "category": "voice",
@@ -593,6 +584,16 @@
   "thehouseoftwaintwendle2": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:thehouseoftwaintwendle2", "stream": true}]
+  },
+
+
+  "towerofascension-ankou-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:towerofascension-ankou-1", "stream": true}]
+  },
+  "towerofascension-ankou-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:towerofascension-ankou-2", "stream": true}]
   },
 
 
@@ -889,6 +890,40 @@
   "underwatersayrr2": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:underwatersayrr2", "stream": true}]
+  },
+
+
+  "dwellingwalls-leucsaa-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:dwellingwalls-leucsaa-1", "stream": true}]
+  },
+  "dwellingwalls-leucsaa-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:dwellingwalls-leucsaa-2", "stream": true}]
+  },
+
+
+  "pitofthedead-merloni-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:dwellingwalls-leucsaa-2", "stream": true}]
+  },
+  "pitofthedead-merloni-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:dwellingwalls-leucsaa-2", "stream": true}]
+  },
+
+
+  "arachnidsascent-cob-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:arachnidsascent-cob-1", "stream": true}]
+  },
+  "arachnidsascent-edyun-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:arachnidsascent-edyun-1", "stream": true}]
+  },
+  "arachnidsascent-edyun-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:arachnidsascent-edyun-2", "stream": true}]
   },
 
 
@@ -1248,6 +1283,32 @@
   },
 
 
+  "elementalexercise-ragon-1": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:elementalexercise-ragon-1", "stream": true}]
+  },
+  "elementalexercise-ragon-2": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:elementalexercise-ragon-2", "stream": true}]
+  },
+  "elementalexercise-ragon-3": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:elementalexercise-ragon-3", "stream": true}]
+  },
+  "elementalexercise-ragon-4": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:elementalexercise-ragon-4", "stream": true}]
+  },
+  "elementalexercise-ragon-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:elementalexercise-ragon-5", "stream": true}]
+  },
+  "elementalexercise-ragon-6": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:elementalexercise-ragon-6", "stream": true}]
+  },
+
+
   "generalsorders-corpusaccipientis-1-3": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:generalsorders-corpusaccipientis-1-3", "stream": true}]
@@ -1391,6 +1452,10 @@
   "generalsorders-lecade-8-3-5": {
     "category": "voice",
     "sounds": [{ "name": "wynnvp:generalsorders-lecade-8-3-5", "stream": true}]
+  },
+  "generalsorders-lecade-8-4-5": {
+    "category": "voice",
+    "sounds": [{ "name": "wynnvp:generalsorders-lecade-8-4-5", "stream": true}]
   },
   "generalsorders-lecade-8-5-5": {
     "category": "voice",
