@@ -3,7 +3,7 @@ Specification-Title: Wynncraft Voice Project
 Specification-Vendor: WVP Team
 Specification-Version: 1
 Implementation-Title: Basemod
-Implementation-Version: 0.21.1
+Implementation-Version: 0.21.2
 Implementation-Vendor: WVP Team
-Implementation-Timestamp: 2022-06-25T17:08:46+0200
+Implementation-Timestamp: 2022-06-28T17:15:21+0200
 
