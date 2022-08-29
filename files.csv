@@ -1,5 +1,5 @@
 path,hash
-META-INF/MANIFEST.MF,399193192
+META-INF/MANIFEST.MF,946847804
 com/wynnvp/wynncraftvp/config/ConfigHandler.class,2632225733
 com/wynnvp/wynncraftvp/events/ArmorCheckEvent.class,3413685202
 com/wynnvp/wynncraftvp/events/custom/PacketEvent$Incoming.class,291988884
@@ -10,7 +10,7 @@ com/wynnvp/wynncraftvp/events/JoinServerEvent.class,567078604
 com/wynnvp/wynncraftvp/events/PlaySoundEventListener$1.class,1520336501
 com/wynnvp/wynncraftvp/events/PlaySoundEventListener.class,1898506190
 com/wynnvp/wynncraftvp/events/QuitServerEvent.class,2671115086
-com/wynnvp/wynncraftvp/events/ReceiveChatEvent.class,2672224233
+com/wynnvp/wynncraftvp/events/ReceiveChatEvent.class,2237503454
 com/wynnvp/wynncraftvp/events/SendChatEvent$1.class,3172433233
 com/wynnvp/wynncraftvp/events/SendChatEvent$openGui.class,4275817224
 com/wynnvp/wynncraftvp/events/SendChatEvent.class,1181830878
@@ -28,13 +28,13 @@ com/wynnvp/wynncraftvp/sound/line/LineReporter.class,73415837
 com/wynnvp/wynncraftvp/sound/SoundController.class,1824771978
 com/wynnvp/wynncraftvp/sound/SoundObject.class,99945996
 com/wynnvp/wynncraftvp/sound/SoundPlayer.class,1940902054
-com/wynnvp/wynncraftvp/sound/SoundsHandler.class,4253965326
-com/wynnvp/wynncraftvp/utils/LineFormatter.class,2296034213
+com/wynnvp/wynncraftvp/sound/SoundsHandler.class,3960403071
+com/wynnvp/wynncraftvp/utils/LineFormatter.class,761511938
 com/wynnvp/wynncraftvp/utils/reflection/ReflectionFields.class,1128110438
 com/wynnvp/wynncraftvp/utils/reflection/ReflectionUtils.class,3812895735
 com/wynnvp/wynncraftvp/utils/StringBlacklist.class,3636675018
 com/wynnvp/wynncraftvp/utils/Utils.class,3886507335
-com/wynnvp/wynncraftvp/utils/VersionChecker.class,891256214
+com/wynnvp/wynncraftvp/utils/VersionChecker.class,221345197
 assets/wynnvp/scroll.png,3291556002
 assets/wynnvp/sounds/acquiringcredentials-barman-1.ogg,648802030
 assets/wynnvp/sounds/acquiringcredentials-barman-2.ogg,2951674867
