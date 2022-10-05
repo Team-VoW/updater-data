@@ -1,9 +1,11 @@
 Manifest-Version: 1.0
-Specification-Title: Wynncraft Voice Project
-Specification-Vendor: WVP Team
-Specification-Version: 1
-Implementation-Title: Basemod
-Implementation-Version: 1.01
-Implementation-Vendor: WVP Team
-Implementation-Timestamp: 2022-08-21T10:44:15+0200
+Fabric-Gradle-Version: 7.5.1
+Fabric-Loom-Version: 1.0.11
+Fabric-Mixin-Compile-Extensions-Version: 0.5.0
+Fabric-Minecraft-Version: 1.18.2
+Fabric-Tiny-Remapper-Version: 0.8.5
+Fabric-Loader-Version: 6.4.90
+Fabric-Mixin-Version: 0.11.4+mixin.0.8.5
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
 
