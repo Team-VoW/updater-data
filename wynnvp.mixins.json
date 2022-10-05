@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.wynnvp.wynncraftvp.events.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [],
+  "client": [
+    "MixinChatListener",
+    "MixinServerConnectListener",
+    "MixinShowGuiListener"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "Voices-of-wynn-fabric-refmap.json"
+}

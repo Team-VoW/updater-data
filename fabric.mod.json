@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "wynnvp",
+  "version": "1.0",
+  "name": "Voices of wynn",
+  "description": "Now fabricated.",
+  "authors": [
+    "https://voicesofwynn.com/credits"
+  ],
+  "contact": {
+    "homepage": "https://voicesofwynn.com/",
+    "sources": "https://github.com/Team-VoW",
+    "issues": "https://github.com/Team-VoW/WynncraftVoiceProject/issues"
+  },
+  "license": "",
+  "icon": "assets/wynnvp/wynnvplogo.png",
+  "environment": "client",
+  "entrypoints": {
+    "modmenu": [
+      "com.wynnvp.wynncraftvp.config.ModMenuIntegration"
+    ],
+    "main": [
+      "com.wynnvp.wynncraftvp.ModCore"
+    ]
+  },
+  "mixins": [
+    "wynnvp.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "\u003e\u003d0.14.9",
+    "minecraft": "~1.18",
+    "java": "\u003e\u003d17"
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/LibGui-5.4.2+1.18.2.jar"
+    }
+  ]
+}
