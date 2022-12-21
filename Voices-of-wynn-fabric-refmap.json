@@ -1,5 +1,8 @@
 {
   "mappings": {
+    "com/wynnvp/wynncraftvp/events/mixins/MixinPlaySoundListener": {
+      "play(Lnet/minecraft/client/sound/SoundInstance;)V": "Lnet/minecraft/class_1144;method_4873(Lnet/minecraft/class_1113;)V"
+    },
     "com/wynnvp/wynncraftvp/events/mixins/MixinServerConnectListener": {
       "onSuccess": "Lnet/minecraft/class_635;method_12588(Lnet/minecraft/class_2901;)V"
     },
@@ -12,6 +15,9 @@
   },
   "data": {
     "named:intermediary": {
+      "com/wynnvp/wynncraftvp/events/mixins/MixinPlaySoundListener": {
+        "play(Lnet/minecraft/client/sound/SoundInstance;)V": "Lnet/minecraft/class_1144;method_4873(Lnet/minecraft/class_1113;)V"
+      },
       "com/wynnvp/wynncraftvp/events/mixins/MixinServerConnectListener": {
         "onSuccess": "Lnet/minecraft/class_635;method_12588(Lnet/minecraft/class_2901;)V"
       },
