@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wynnvp",
-  "version": "1.3",
+  "version": "1.3.1",
   "name": "Voices of wynn",
   "description": "Now fabricated.",
   "authors": [
@@ -27,8 +27,13 @@
     "wynnvp.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.9",
+    "fabricloader": "\u003e\u003d0.14.9",
     "minecraft": "~1.19.3",
-    "java": ">=17"
-  }
+    "java": "\u003e\u003d17"
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/LibGui-6.5.0+1.19.3.jar"
+    }
+  ]
 }
