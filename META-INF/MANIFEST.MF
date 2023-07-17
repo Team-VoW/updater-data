@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Fabric-Gradle-Version: 7.5.1
-Fabric-Loom-Version: 1.1.13
+Fabric-Loom-Version: 1.1.14
 Fabric-Mixin-Compile-Extensions-Version: 0.6.0
 Fabric-Minecraft-Version: 1.19.4
 Fabric-Tiny-Remapper-Version: 0.8.5

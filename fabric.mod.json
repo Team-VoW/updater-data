@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wynnvp",
-  "version": "1.4",
+  "version": "1.5",
   "name": "Voices of wynn",
   "description": "Now fabricated.",
   "authors": [
@@ -27,6 +27,7 @@
     "wynnvp.mixins.json"
   ],
   "depends": {
+    "cloth-config": "\u003e\u003d10.0.96",
     "fabricloader": "\u003e\u003d0.14.18",
     "fabric-api": "\u003e\u003d0.78.0",
     "minecraft": "1.19.4",
