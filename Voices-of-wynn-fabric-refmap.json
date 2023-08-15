@@ -12,6 +12,9 @@
     },
     "com/wynnvp/wynncraftvp/events/mixins/MixinShowGuiListener": {
       "setScreen": "Lnet/minecraft/class_310;method_1507(Lnet/minecraft/class_437;)V"
+    },
+    "com/wynnvp/wynncraftvp/events/mixins/SneakPacketMixin": {
+      "<init>(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action;I)V": "Lnet/minecraft/class_2848;<init>(Lnet/minecraft/class_1297;Lnet/minecraft/class_2848$class_2849;I)V"
     }
   },
   "data": {
@@ -28,6 +31,9 @@
       },
       "com/wynnvp/wynncraftvp/events/mixins/MixinShowGuiListener": {
         "setScreen": "Lnet/minecraft/class_310;method_1507(Lnet/minecraft/class_437;)V"
+      },
+      "com/wynnvp/wynncraftvp/events/mixins/SneakPacketMixin": {
+        "<init>(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action;I)V": "Lnet/minecraft/class_2848;<init>(Lnet/minecraft/class_1297;Lnet/minecraft/class_2848$class_2849;I)V"
       }
     }
   }
