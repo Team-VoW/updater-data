@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wynnvp",
-  "version": "1.5.1",
+  "version": "1.6",
   "name": "Voices of wynn",
   "description": "Now fabricated.",
   "authors": [
@@ -28,14 +28,14 @@
   ],
   "depends": {
     "cloth-config": "\u003e\u003d10.0.96",
-    "fabricloader": "\u003e\u003d0.14.18",
+    "fabricloader": "\u003e\u003d0.14.22",
     "fabric-api": "\u003e\u003d0.78.0",
-    "minecraft": "1.19.4",
+    "minecraft": "1.20.2",
     "java": "\u003e\u003d17"
   },
   "jars": [
     {
-      "file": "META-INF/jars/LibGui-7.0.0-rc.1+1.19.4.jar"
+      "file": "META-INF/jars/LibGui-9.0.0+1.20.2.jar"
     }
   ]
 }
