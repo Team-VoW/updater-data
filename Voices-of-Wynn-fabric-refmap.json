@@ -14,6 +14,10 @@
     },
     "com/wynnvp/wynncraftvp/events/mixins/SneakPacketMixin": {
       "<init>(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action;I)V": "Lnet/minecraft/class_2848;<init>(Lnet/minecraft/class_1297;Lnet/minecraft/class_2848$class_2849;I)V"
+    },
+    "com/wynnvp/wynncraftvp/events/mixins/SoundEngineStartedMixin": {
+      "Lcom/mojang/blaze3d/audio/Listener;reset()V": "Lnet/minecraft/class_4227;method_19673()V",
+      "loadLibrary": "Lnet/minecraft/class_1140;method_4846()V"
     }
   },
   "data": {
@@ -32,6 +36,10 @@
       },
       "com/wynnvp/wynncraftvp/events/mixins/SneakPacketMixin": {
         "<init>(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action;I)V": "Lnet/minecraft/class_2848;<init>(Lnet/minecraft/class_1297;Lnet/minecraft/class_2848$class_2849;I)V"
+      },
+      "com/wynnvp/wynncraftvp/events/mixins/SoundEngineStartedMixin": {
+        "Lcom/mojang/blaze3d/audio/Listener;reset()V": "Lnet/minecraft/class_4227;method_19673()V",
+        "loadLibrary": "Lnet/minecraft/class_1140;method_4846()V"
       }
     }
   }
