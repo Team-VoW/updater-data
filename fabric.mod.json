@@ -10,7 +10,7 @@
   "depends": {
     "cloth-config": ">=15.0.128",
     "fabric-api": ">=0.102.0",
-    "fabricloader": ">=0.16.0",
+    "fabricloader": ">=0.16.5",
     "minecraft": ">=1.21 <=1.21.1"
   },
   "description": "Now fabricated.",
@@ -31,5 +31,5 @@
   ],
   "name": "Voices of Wynn",
   "schemaVersion": 1,
-  "version": "1.9.3"
+  "version": "1.9.4"
 }
